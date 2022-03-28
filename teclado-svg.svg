@@ -175,6 +175,73 @@
 <rect x="427" y="607" rx="10" ry="10" width="135" height="58" style="fill:#372b5b;" />
 <text x="457" y="642" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Shift</text>
 
+<!-- Z -->
+<rect x="575" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="575" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="575" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="588" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Z</text>
+
+<!-- X -->
+<rect x="658" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="658" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="658" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="671" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">X</text>
+
+<!-- C -->
+<rect x="741" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="741" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="741" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="754" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">C</text>
+
+<!-- V -->
+<rect x="824" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="824" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="824" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="837" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">V</text>
+
+<!-- B -->
+<rect x="907" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="907" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="907" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="920" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">B</text>
+
+<!-- N -->
+<rect x="990" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="990" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="990" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="1003" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">N</text>
+
+<!-- M -->
+<rect x="1073" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="1073" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="1073" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="1086" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">M</text>
+
+<!-- < -->
+<rect x="1156" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="1156" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="1156" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="1169" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#60;</text>
+
+<!-- > -->
+<rect x="1239" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="1239" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="1239" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="1252" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#62;</text>
+
+<!-- Shift -->
+<rect x="1320" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="1320" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="1320" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="1330" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Shift</text>
+
+<!-- Fn -->
+<rect x="1400" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
+<rect x="1400" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
+<rect x="1400" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<text x="1413" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Fn</text>
+
+
 <!-- Cuarta fila-->
 <!-- Control -->
 <rect x="427" y="692" rx="10" ry="10" width="95" height="82" style="fill:#1e132b;" />
