@@ -1,0 +1,11 @@
+<!--viewBox="0 0 1920 920"-->
+<svg version="1.1" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 930">
+
+<!-- Fondo -->
+<rect width="100%" height="100%" style="fill:#1e132b;stroke-width:3;stroke:rgb(0,0,0)" />
+
+<!-- Base -->
+<rect x="400" y="460" rx="20" ry="20" width="1130" height="380" style="fill:#909090;" />
+<rect x="400" y="460" rx="20" ry="20" width="1130" height="430" style="fill:#666666;" />
+
+</svg>
