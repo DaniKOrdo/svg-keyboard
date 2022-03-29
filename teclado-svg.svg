@@ -2,330 +2,330 @@
 <svg version="1.1" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 930">
 
 <!-- Fondo -->
-<rect width="100%" height="100%" style="fill:#1e132b;stroke-width:3;stroke:rgb(0,0,0)" />
+<rect width="100%" height="100%" fill="#1e132b"/>
 
 <!-- Base -->
-<rect x="405" y="420" rx="15" ry="15" width="1090" height="430" style="fill:#666666;" />
-<rect x="407" y="420" rx="15" ry="15" width="1085" height="380" style="fill:#4e4e4e;stroke:#9c9d9c;stroke-width:5;" />
-<rect x="415" y="425" rx="10" ry="10" width="1070" height="370" style="fill:#282828;" />
+<rect x="405" y="420" rx="15" ry="15" width="1090" height="430" fill="#666666" />
+<rect x="407" y="420" rx="15" ry="15" width="1085" height="380" fill="#4e4e4e" stroke="#9c9d9c" stroke-width="5" />
+<rect x="415" y="425" rx="10" ry="10" width="1070" height="370" fill="#282828" />
 
 <!-- Teclas (espacio entre teclas 83) (espacio entre letras 13 23)-->
 <!-- Primera fila-->
 <!-- Esc -->
-<rect x="427" y="437" rx="10" ry="10" width="72" height="82" style="fill:#9b196a;" />
-<rect x="427" y="437" rx="10" ry="10" width="72" height="71" style="fill:#aa186b;" />
-<rect x="427" y="437" rx="10" ry="10" width="72" height="58" style="fill:#ef1d81;" />
+<rect x="427" y="437" rx="10" ry="10" width="72" height="82" fill="#9b196a" />
+<rect x="427" y="437" rx="10" ry="10" width="72" height="71" fill="#aa186b" />
+<rect x="427" y="437" rx="10" ry="10" width="72" height="58" fill="#ef1d81" />
 
 <circle cx="463" cy="464" r="22" fill="#372b5b" />
-<rect x="430" y="463" width="65" height="2" style="fill:#ef1d81;" />
-<rect x="430" y="469" width="65" height="3" style="fill:#ef1d81;" />
-<rect x="430" y="476" width="65" height="4" style="fill:#ef1d81;" />
-<rect x="430" y="482" width="65" height="4" style="fill:#ef1d81;" />
+<rect x="430" y="463" width="65" height="2" fill="#ef1d81" />
+<rect x="430" y="469" width="65" height="3" fill="#ef1d81" />
+<rect x="430" y="476" width="65" height="4" fill="#ef1d81" />
+<rect x="430" y="482" width="65" height="4" fill="#ef1d81" />
 
 <!-- Q -->
-<rect x="508" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="508" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="508" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="508" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="508" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="508" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="520" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Q</text>
 <text x="550" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">た</text>
 
 <!-- W -->
-<rect x="590" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="590" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="590" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="590" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="590" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="590" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="602" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">W</text>
 <text x="632" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">て</text>
 
 <!-- E -->
-<rect x="672" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="672" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="672" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="672" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="672" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="672" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="684" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">E</text>
 <text x="714" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">に</text>
 
 <!-- R -->
-<rect x="753" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="753" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="753" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="753" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="753" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="753" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="766" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">R</text>
 <text x="797" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">す</text>
 
 <!-- T -->
-<rect x="834" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="834" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="834" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="834" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="834" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="834" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="846" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">T</text>
 <text x="877" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">が</text>
 
 <!-- Y -->
-<rect x="914" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="914" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="914" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="914" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="914" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="914" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="926" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Y</text>
 <text x="957" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">よ</text>
 
 <!-- U -->
-<rect x="995" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="995" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="995" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="995" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="995" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="995" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1007" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">U</text>
 <text x="1038" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">て</text>
 
 <!-- I -->
-<rect x="1075" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1075" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1075" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1075" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1075" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1075" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1087" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">I</text>
 <text x="1118" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">と</text>
 
 <!-- O -->
-<rect x="1155" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1155" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1155" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1155" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1155" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1155" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1167" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">O</text>
 <text x="1200" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">る</text>
 
 <!-- P -->
-<rect x="1236" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1236" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1236" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1236" y="437" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1236" y="437" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1236" y="437" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1248" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">P</text>
 <text x="1280" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">れ</text>
 
 <!-- Delete -->
-<rect x="1317" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1317" y="437" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1317" y="437" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
-<text x="1329" y="460" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Del</text>
+<rect x="1317" y="437" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1317" y="437" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1317" y="437" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
+<text x="1336" y="470" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Del</text>
 
 <!-- Logo -->
-<rect x="1400" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1400" y="437" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1400" y="437" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1400" y="437" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1400" y="437" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1400" y="437" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 
 
 <!-- Segunda fila-->
 <!-- Tab -->
-<rect x="427" y="522" rx="10" ry="10" width="95" height="82" style="fill:#1e132b;" />
-<rect x="427" y="522" rx="10" ry="10" width="95" height="71" style="fill:#2c1b3d;" />
-<rect x="427" y="522" rx="10" ry="10" width="95" height="58" style="fill:#372b5b;" />
+<rect x="427" y="522" rx="10" ry="10" width="95" height="82" fill="#1e132b" />
+<rect x="427" y="522" rx="10" ry="10" width="95" height="71" fill="#2c1b3d" />
+<rect x="427" y="522" rx="10" ry="10" width="95" height="58" fill="#372b5b" />
 <text x="437" y="558" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Tab</text>
 
 <!-- A -->
-<rect x="532" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="532" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="532" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="532" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="532" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="532" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="545" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">A</text>
 <text x="577" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">る</text>
 
 <!-- S -->
-<rect x="615" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="615" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="615" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="615" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="615" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="615" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="628" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">S</text>
 <text x="659" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">と</text>
 
 <!-- D -->
-<rect x="698" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="698" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="698" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="698" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="698" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="698" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="711" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">D</text>
 <text x="741" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">び</text>
 
 <!-- F -->
-<rect x="781" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="781" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="781" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="781" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="781" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="781" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="794" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">F</text>
 <text x="825" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">も</text>
 
 <!-- G -->
-<rect x="864" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="864" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="864" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="864" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="864" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="864" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="873" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">G</text>
 <text x="908" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">の</text>
 
 <!-- H -->
-<rect x="947" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="947" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="947" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="947" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="947" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="947" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="960" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">H</text>
 <text x="992" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">ら</text>
 
 <!-- J -->
-<rect x="1030" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1030" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1030" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1030" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1030" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1030" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1043" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">J</text>
 <text x="1075" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">よ</text>
 
 <!-- K -->
-<rect x="1113" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1113" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1113" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1113" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1113" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1113" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1126" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">K</text>
 <text x="1160" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">こ</text>
 
 <!-- L -->
-<rect x="1196" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1196" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1196" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1196" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1196" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1196" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1209" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">L</text>
 <text x="1240" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">国</text>
 
 <!-- : -->
-<rect x="1279" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1279" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1279" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1279" y="522" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1279" y="522" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1279" y="522" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1292" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">:</text>
 <text x="1292" y="570" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">;</text>
 <text x="1320" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">公</text>
 
 <!-- Enter -->
-<rect x="1362" y="522" rx="10" ry="10" width="110" height="82" style="fill:#1e132b;" />
-<rect x="1362" y="522" rx="10" ry="10" width="110" height="71" style="fill:#2c1b3d;" />
-<rect x="1362" y="522" rx="10" ry="10" width="110" height="58" style="fill:#372b5b;" />
+<rect x="1362" y="522" rx="10" ry="10" width="110" height="82" fill="#1e132b" />
+<rect x="1362" y="522" rx="10" ry="10" width="110" height="71" fill="#2c1b3d" />
+<rect x="1362" y="522" rx="10" ry="10" width="110" height="58" fill="#372b5b" />
 <text x="1375" y="545" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Enter</text>
 
 
 <!-- Tercera fila-->
 <!-- Shift -->
-<rect x="427" y="607" rx="10" ry="10" width="135" height="82" style="fill:#1e132b;" />
-<rect x="427" y="607" rx="10" ry="10" width="135" height="71" style="fill:#2c1b3d;" />
-<rect x="427" y="607" rx="10" ry="10" width="135" height="58" style="fill:#372b5b;" />
+<rect x="427" y="607" rx="10" ry="10" width="135" height="82" fill="#1e132b" />
+<rect x="427" y="607" rx="10" ry="10" width="135" height="71" fill="#2c1b3d" />
+<rect x="427" y="607" rx="10" ry="10" width="135" height="58" fill="#372b5b" />
 <text x="457" y="642" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Shift</text>
 
 <!-- Z -->
-<rect x="575" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="575" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="575" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="575" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="575" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="575" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="588" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Z</text>
 <text x="620" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">っ</text>
 
 <!-- X -->
-<rect x="658" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="658" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="658" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="658" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="658" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="658" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="671" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">X</text>
 <text x="700" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">が</text>
 
 <!-- C -->
-<rect x="741" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="741" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="741" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="741" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="741" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="741" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="754" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">C</text>
 <text x="785" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">な</text>
 
 <!-- V -->
-<rect x="824" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="824" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="824" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="824" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="824" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="824" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="837" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">V</text>
 <text x="867" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">人</text>
 
 <!-- B -->
-<rect x="907" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="907" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="907" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="907" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="907" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="907" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="920" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">B</text>
 <text x="951" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">及</text>
 
 <!-- N -->
-<rect x="990" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="990" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="990" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="990" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="990" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="990" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1003" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">N</text>
 <text x="1036" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">力</text>
 
 <!-- M -->
-<rect x="1073" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1073" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1073" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1073" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1073" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1073" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1086" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">M</text>
 <text x="1117" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">成</text>
 
 <!-- < -->
-<rect x="1156" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1156" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1156" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1156" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1156" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1156" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1169" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#60;</text>
 <text x="1175" y="655" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">,</text>
 <text x="1200" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">べ</text>
 
 <!-- > -->
-<rect x="1239" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
-<rect x="1239" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
-<rect x="1239" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
+<rect x="1239" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
+<rect x="1239" y="607" rx="10" ry="10" width="72" height="71" fill="#242449" />
+<rect x="1239" y="607" rx="10" ry="10" width="72" height="58" fill="#2b2b59" />
 <text x="1252" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#62;</text>
 <text x="1258" y="655" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">.</text>
 <text x="1285" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">る</text>
 
 <!-- Shift -->
-<rect x="1320" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1320" y="607" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1320" y="607" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1320" y="607" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1320" y="607" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1320" y="607" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1330" y="642" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Shift</text>
 
 <!-- Fn -->
-<rect x="1400" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1400" y="607" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1400" y="607" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1400" y="607" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1400" y="607" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1400" y="607" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1413" y="642" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Fn</text>
 
 
 <!-- Cuarta fila-->
 <!-- Control -->
-<rect x="427" y="692" rx="10" ry="10" width="95" height="82" style="fill:#1e132b;" />
-<rect x="427" y="692" rx="10" ry="10" width="95" height="71" style="fill:#2c1b3d;" />
-<rect x="427" y="692" rx="10" ry="10" width="95" height="58" style="fill:#372b5b;" />
+<rect x="427" y="692" rx="10" ry="10" width="95" height="82" fill="#1e132b" />
+<rect x="427" y="692" rx="10" ry="10" width="95" height="71" fill="#2c1b3d" />
+<rect x="427" y="692" rx="10" ry="10" width="95" height="58" fill="#372b5b" />
 <text x="437" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Control</text>
 
 <!-- Win -->
-<rect x="533" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="533" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="533" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="533" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="533" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="533" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="546" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Win</text>
 
 <!-- Alt -->
-<rect x="616" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="616" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="616" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="616" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="616" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="616" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="629" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Alt</text>
 
 <!-- Code -->
-<rect x="699" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="699" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="699" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="699" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="699" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="699" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="712" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Code</text>
 
 <!-- Espacio -->
-<rect x="782" y="692" rx="10" ry="10" width="362" height="82" style="fill:#1e132b;" />
-<rect x="782" y="692" rx="10" ry="10" width="362" height="71" style="fill:#2c1b3d;" />
-<rect x="782" y="692" rx="10" ry="10" width="362" height="58" style="fill:#372b5b;" />
+<rect x="782" y="692" rx="10" ry="10" width="362" height="82" fill="#1e132b" />
+<rect x="782" y="692" rx="10" ry="10" width="362" height="71" fill="#2c1b3d" />
+<rect x="782" y="692" rx="10" ry="10" width="362" height="58" fill="#372b5b" />
 
 <!-- Code -->
-<rect x="1156" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1156" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1156" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1156" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1156" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1156" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1169" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Code</text>
 
 <!-- Alt -->
-<rect x="1239" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1239" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1239" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1239" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1239" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1239" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1252" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Alt</text>
 
 <!-- End -->
-<rect x="1320" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1320" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1320" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1320" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1320" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1320" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1333" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">End</text>
 
 <!-- Control -->
-<rect x="1400" y="692" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
-<rect x="1400" y="692" rx="10" ry="10" width="72" height="71" style="fill:#2c1b3d;" />
-<rect x="1400" y="692" rx="10" ry="10" width="72" height="58" style="fill:#372b5b;" />
+<rect x="1400" y="692" rx="10" ry="10" width="72" height="82" fill="#1e132b" />
+<rect x="1400" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
+<rect x="1400" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1402" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Control</text>
 
 
