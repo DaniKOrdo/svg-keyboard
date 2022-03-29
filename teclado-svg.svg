@@ -18,15 +18,67 @@
         }
 </style>
 
-<filter id="blur">
-    <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
-</filter>
+<defs>
+    <filter id="blur">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
 
-<!-- Fondo -->
+    <radialGradient id="gradiente" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" style="stop-color:black;stop-opacity:0" />
+      <stop offset="90%" style="stop-color:#ef1d81;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+
+<!-- Fondo 
 <rect width="100%" height="100%" fill="#1e132b"/>
+-->
+
+<!-- Cable -->
+<rect x="500" y="190" rx="15" ry="15" width="20" height="250" fill="#ef1d81" />
+<rect x="485" y="380" rx="15" ry="15" width="50" height="100" fill="#666666" />
+
+<rect x="1100" y="140" rx="15" ry="15" width="240" height="20" fill="#ef1d81" />
+<rect x="1385" y="130" rx="5" ry="5" width="40" height="40" fill="#d9d9d9" />
+
+<rect x="1300" y="125" rx="10" ry="10" width="100" height="50" fill="#666666" />
+
+<rect x="1409" y="138" width="7" height="9" fill="#121212" />
+<rect x="1409" y="154" width="7" height="9" fill="#121212" />
+
+<circle cx="560" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="580" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="600" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="620" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="640" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="660" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="680" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="700" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="720" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="740" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="760" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="780" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="800" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="820" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="840" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="860" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="880" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="900" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="920" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="940" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="960" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="980" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1000" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1020" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1040" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1060" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1080" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1100" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1120" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1140" cy="200" r="60" fill="url(#gradiente)"/>
+<circle cx="1160" cy="200" r="60" fill="url(#gradiente)"/>
 
 <!-- Base -->
-<rect x="400" y="420" rx="15" ry="15" width="1100" height="435" class="rgb" filter="url(#blur)" />
+<rect x="400" y="420" rx="15" ry="15" width="1100" height="440" class="rgb" filter="url(#blur)" />
 <rect x="405" y="420" rx="15" ry="15" width="1090" height="430" fill="#666666" />
 <rect x="407" y="420" rx="15" ry="15" width="1085" height="380" fill="#4e4e4e" stroke="#9c9d9c" stroke-width="5" />
 <rect x="415" y="425" rx="10" ry="10" width="1070" height="370" fill="#282828" />
@@ -349,6 +401,5 @@
 <rect x="1400" y="692" rx="10" ry="10" width="72" height="71" fill="#2c1b3d" />
 <rect x="1400" y="692" rx="10" ry="10" width="72" height="58" fill="#372b5b" />
 <text x="1402" y="728" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Control</text>
-
 
 </svg>
