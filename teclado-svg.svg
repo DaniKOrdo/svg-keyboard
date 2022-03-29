@@ -273,15 +273,20 @@
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="82" fill="#1e132b" />
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="71" fill="#2c1b3d" />
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="58" fill="#372b5b" />
-<text x="1375" y="545" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Enter</text>
+<text x="1405" y="555" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Enter</text>
 
+<line x1="1380" y1="555" x2="1405" y2="555" stroke="#ef1d81" stroke-width="2" />
 
 <!-- Tercera fila-->
 <!-- Shift -->
 <rect x="427" y="607" rx="10" ry="10" width="135" height="82" fill="#1e132b" />
 <rect x="427" y="607" rx="10" ry="10" width="135" height="71" fill="#2c1b3d" />
 <rect x="427" y="607" rx="10" ry="10" width="135" height="58" fill="#372b5b" />
-<text x="457" y="642" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Shift</text>
+<text x="460" y="642" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Shift</text>
+
+<polygon points="447,625 440,635 455,635" fill="#372b5b" stroke="#ed1e79" stroke-width="2"/>
+<rect x="442" y="635" width="11" height="12" fill="#ed1e79" />
+<rect x="444" y="633" width="7" height="12" fill="#372b5b" />
 
 <!-- Z -->
 <rect x="575" y="607" rx="10" ry="10" width="72" height="82" fill="#1d1d3a" />
