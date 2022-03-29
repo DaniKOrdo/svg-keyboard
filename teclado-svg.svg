@@ -27,60 +27,70 @@
 <rect x="508" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="508" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="520" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Q</text>
+<text x="550" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">た</text>
 
 <!-- W -->
 <rect x="590" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="590" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="590" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="602" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">W</text>
+<text x="632" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">て</text>
 
 <!-- E -->
 <rect x="672" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="672" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="672" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="684" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">E</text>
+<text x="714" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">に</text>
 
 <!-- R -->
 <rect x="753" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="753" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="753" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="766" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">R</text>
+<text x="797" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">す</text>
 
 <!-- T -->
 <rect x="834" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="834" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="834" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="846" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">T</text>
+<text x="877" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">が</text>
 
 <!-- Y -->
 <rect x="914" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="914" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="914" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="926" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Y</text>
+<text x="957" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">よ</text>
 
 <!-- U -->
 <rect x="995" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="995" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="995" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1007" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">U</text>
+<text x="1038" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">て</text>
 
 <!-- I -->
 <rect x="1075" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1075" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1075" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1087" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">I</text>
+<text x="1118" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">と</text>
 
 <!-- O -->
 <rect x="1155" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1155" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1155" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1167" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">O</text>
+<text x="1200" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">る</text>
 
 <!-- P -->
 <rect x="1236" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1236" y="437" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1236" y="437" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1248" y="460" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">P</text>
+<text x="1280" y="485" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">れ</text>
 
 <!-- Delete -->
 <rect x="1317" y="437" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
@@ -106,60 +116,71 @@
 <rect x="532" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="532" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="545" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">A</text>
+<text x="577" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">る</text>
 
 <!-- S -->
 <rect x="615" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="615" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="615" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="628" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">S</text>
+<text x="659" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">と</text>
 
 <!-- D -->
 <rect x="698" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="698" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="698" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="711" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">D</text>
+<text x="741" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">び</text>
 
 <!-- F -->
 <rect x="781" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="781" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="781" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="794" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">F</text>
+<text x="825" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">も</text>
 
 <!-- G -->
 <rect x="864" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="864" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="864" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="873" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">G</text>
+<text x="908" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">の</text>
 
 <!-- H -->
 <rect x="947" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="947" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="947" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="960" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">H</text>
+<text x="992" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">ら</text>
 
 <!-- J -->
 <rect x="1030" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1030" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1030" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1043" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">J</text>
+<text x="1075" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">よ</text>
 
 <!-- K -->
 <rect x="1113" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1113" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1113" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1126" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">K</text>
+<text x="1160" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">こ</text>
 
 <!-- L -->
 <rect x="1196" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1196" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1196" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1209" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">L</text>
+<text x="1240" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">国</text>
 
 <!-- : -->
 <rect x="1279" y="522" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1279" y="522" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1279" y="522" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
 <text x="1292" y="545" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">:</text>
+<text x="1292" y="570" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">;</text>
+<text x="1320" y="570" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">公</text>
 
 <!-- Enter -->
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="82" style="fill:#1e132b;" />
@@ -179,55 +200,66 @@
 <rect x="575" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="575" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="575" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="588" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Z</text>
+<text x="588" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">Z</text>
+<text x="620" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">っ</text>
 
 <!-- X -->
 <rect x="658" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="658" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="658" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="671" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">X</text>
+<text x="671" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">X</text>
+<text x="700" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">が</text>
 
 <!-- C -->
 <rect x="741" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="741" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="741" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="754" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">C</text>
+<text x="754" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">C</text>
+<text x="785" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">な</text>
 
 <!-- V -->
 <rect x="824" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="824" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="824" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="837" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">V</text>
+<text x="837" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">V</text>
+<text x="867" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">人</text>
 
 <!-- B -->
 <rect x="907" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="907" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="907" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="920" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">B</text>
+<text x="920" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">B</text>
+<text x="951" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">及</text>
 
 <!-- N -->
 <rect x="990" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="990" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="990" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="1003" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">N</text>
+<text x="1003" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">N</text>
+<text x="1036" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">力</text>
 
 <!-- M -->
 <rect x="1073" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1073" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1073" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="1086" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">M</text>
+<text x="1086" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">M</text>
+<text x="1117" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">成</text>
 
 <!-- < -->
 <rect x="1156" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1156" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1156" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="1169" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#60;</text>
+<text x="1169" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#60;</text>
+<text x="1175" y="655" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">,</text>
+<text x="1200" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">べ</text>
 
 <!-- > -->
 <rect x="1239" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1d1d3a;" />
 <rect x="1239" y="607" rx="10" ry="10" width="72" height="71" style="fill:#242449;" />
 <rect x="1239" y="607" rx="10" ry="10" width="72" height="58" style="fill:#2b2b59;" />
-<text x="1252" y="642" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#62;</text>
+<text x="1252" y="630" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">&#62;</text>
+<text x="1258" y="655" fill="#17a7c4" font-family="Verdana" font-weight="600" font-size="20">.</text>
+<text x="1285" y="655" fill="#17a7c4" font-family="Verdana" font-weight="500" font-size="20">る</text>
 
 <!-- Shift -->
 <rect x="1320" y="607" rx="10" ry="10" width="72" height="82" style="fill:#1e132b;" />
