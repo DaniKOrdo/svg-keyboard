@@ -18,10 +18,15 @@
         }
 </style>
 
+<filter id="blur">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+</filter>
+
 <!-- Fondo -->
 <rect width="100%" height="100%" fill="#1e132b"/>
 
 <!-- Base -->
+<rect x="400" y="420" rx="15" ry="15" width="1100" height="435" class="rgb" filter="url(#blur)" />
 <rect x="405" y="420" rx="15" ry="15" width="1090" height="430" fill="#666666" />
 <rect x="407" y="420" rx="15" ry="15" width="1085" height="380" fill="#4e4e4e" stroke="#9c9d9c" stroke-width="5" />
 <rect x="415" y="425" rx="10" ry="10" width="1070" height="370" fill="#282828" />
