@@ -1,6 +1,7 @@
 <!--viewBox="0 0 1920 920"-->
 <svg version="1.1" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 930">
 
+<!-- Esto es extra (pone RGB detras del teclado (linea 82))-->
 <style>
         .rgb {
             animation-name: rgb;
@@ -78,13 +79,14 @@
 <circle cx="1160" cy="200" r="60" fill="url(#gradiente)"/>
 
 <!-- Base -->
-<rect x="400" y="420" rx="15" ry="15" width="1100" height="440" class="rgb" filter="url(#blur)" />
+<!-- Poner la clase rgb en la siguiente linea -->
+<rect x="400" y="420" rx="15" ry="15" width="1100" height="440" class="" filter="url(#blur)" />
 <rect x="405" y="420" rx="15" ry="15" width="1090" height="430" fill="#666666" />
 <rect x="407" y="420" rx="15" ry="15" width="1085" height="380" fill="#4e4e4e" stroke="#9c9d9c" stroke-width="5" />
 <rect x="415" y="425" rx="10" ry="10" width="1070" height="370" fill="#282828" />
 
-<!-- Teclas (espacio entre teclas 83) (espacio entre letras 13 23)-->
-<!-- Primera fila-->
+<!-- Teclas -->
+<!-- Primera fila -->
 <!-- Esc -->
 <rect x="427" y="437" rx="10" ry="10" width="72" height="82" fill="#9b196a" />
 <rect x="427" y="437" rx="10" ry="10" width="72" height="71" fill="#aa186b" />
@@ -273,9 +275,11 @@
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="82" fill="#1e132b" />
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="71" fill="#2c1b3d" />
 <rect x="1362" y="522" rx="10" ry="10" width="110" height="58" fill="#372b5b" />
-<text x="1405" y="555" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Enter</text>
+<text x="1408" y="555" fill="#ed1e79" font-family="Verdana" font-weight="600" font-size="16">Enter</text>
 
-<line x1="1380" y1="555" x2="1405" y2="555" stroke="#ef1d81" stroke-width="2" />
+<line x1="1404" y1="546" x2="1404" y2="555" stroke="#ef1d81" stroke-width="2" />
+<line x1="1380" y1="555" x2="1405" y2="555" stroke="#ed1e79" stroke-width="2" />
+<polygon points="1375,555 1390,549 1390,561" fill="#ed1e79" />
 
 <!-- Tercera fila-->
 <!-- Shift -->
