@@ -1,6 +1,6 @@
 # SVG Keyboard
 It is a custom mechanical keyboard which I wanted to make in svg.
-To see the result just download the two files and open index.html
+To see the result just download the two files and open `index.html`
 
 ![teclado-svg](https://user-images.githubusercontent.com/55883836/164186820-561bb19e-9b4b-4b4e-9529-aba5fe30a854.png)
 
